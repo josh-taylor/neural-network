@@ -1,0 +1,16 @@
+{
+    "name": "joshtaylor/basic",
+    "type": "project",
+    "require": {
+        "php": ">7.4"
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Codes\\Josh\\Neural\\Basic\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}

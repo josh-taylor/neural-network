@@ -2,7 +2,7 @@
 
 namespace Codes\Josh\Neural\Basic;
 
-class Node
+final class Node
 {
     /**
      * @var Weight[] $weights

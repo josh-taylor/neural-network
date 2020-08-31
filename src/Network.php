@@ -72,6 +72,8 @@ final class Network
 
 
     /**
+     * @param int $index
+     *
      * @return float|null
      */
     public function input(int $index): ?float

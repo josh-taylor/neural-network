@@ -2,7 +2,8 @@
     "name": "joshtaylor/basic",
     "type": "project",
     "require": {
-        "php": ">7.4"
+        "php": ">7.4",
+        "ext-zlib": "*"
     },
     "require-dev": {},
     "autoload": {
